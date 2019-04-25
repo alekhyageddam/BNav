@@ -1,0 +1,56 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.blackphoenix.haptimoto.game.DemoPage" >
+
+	<LinearLayout
+	    android:id="@+id/layoutMap"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:layout_above="@+id/btnPlay"
+	    android:layout_alignParentTop="true"
+	    android:orientation="vertical" >
+	    
+	    <!-- <ImageView
+	        android:id="@+id/ivPath"
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent"
+	        android:scaleType="fitXY"
+	        android:src="@drawable/housetobright" /> -->
+
+<!-- 	    <com.blackphoenix.haptimoto.game.MapView 
+	        android:id ="@+id/viewMap"
+	        android:layout_height="match_parent"
+	        android:layout_width="match_parent"
+	        /> -->
+	    
+	   </LinearLayout>
+
+   	<Button android:id="@+id/btnPlay"
+   	    android:layout_width="wrap_content"
+   	    android:layout_height="wrap_content"
+   	    android:layout_alignParentLeft="true"
+   	    android:layout_alignParentBottom="true"
+   	    android:text="@string/button_play"
+   	    android:padding="@dimen/default_padding"
+   	    android:background="@color/green"
+   	    android:onClick="onPlayClick"/>
+   	
+   	
+    	<Button android:id="@+id/btnStop"
+   	    android:layout_width="wrap_content"
+   	    android:layout_height="wrap_content"
+   	    android:layout_centerInParent="true"
+   	    android:layout_alignParentBottom="true"
+   	    android:text="@string/button_stop"
+   	    android:padding="@dimen/default_padding"
+   	    android:background="@color/red"
+   	    android:onClick="onStopClick"/>
+   
+   	
+</RelativeLayout>

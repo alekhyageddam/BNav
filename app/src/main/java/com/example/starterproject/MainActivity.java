@@ -2,6 +2,8 @@ package com.example.starterproject;
 
 import android.Manifest;
 import android.annotation.SuppressLint;
+import android.bluetooth.BluetoothAdapter;
+import android.bluetooth.BluetoothDevice;
 import android.content.Context;
 import android.content.pm.PackageManager;
 import android.graphics.Color;
@@ -13,11 +15,15 @@ import android.hardware.SensorManager;
 import android.location.Location;
 import android.location.LocationListener;
 import android.location.LocationManager;
+import android.os.Handler;
+import android.os.ParcelUuid;
 import android.support.v4.app.ActivityCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.MotionEvent;
+import android.view.View;
+import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -58,9 +64,24 @@ import com.esri.arcgisruntime.tasks.networkanalysis.TravelMode;
 import java.net.MalformedURLException;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Set;
 import java.util.concurrent.ExecutionException;
 
-public class MainActivity extends AppCompatActivity implements SensorEventListener {
+//bluetooth imports
+import android.bluetooth.BluetoothAdapter;
+import android.bluetooth.BluetoothDevice;
+import android.content.Intent;
+import android.os.Environment;
+import android.os.Handler;
+import android.os.Message;
+import android.os.ParcelUuid;
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
+import android.widget.TextView;
+
+public class MainActivity extends AppCompatActivity implements SensorEventListener,Handler.Callback {
 
     private MapView mMapView;
     private GraphicsOverlay mGraphicsOverlay;
@@ -84,6 +105,16 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
     private boolean _lastMagnetometerSet = false;
     private double heading = 0.0;
 
+    //bluetooth commands
+    private static final String TAG = "BluetoothChat";
+    private Button send_data;
+    private TextView DataView;
+
+    private Handler mhandler = null;
+    private BluetoothChatService mChatService = null;
+    private BluetoothAdapter mBluetoothAdapter = null;
+    private String mConnectedDeviceName = "FireFly-9479";
+
 
     @SuppressLint("MissingPermission")
     @Override
@@ -95,6 +126,39 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
         _sensorManager = (SensorManager)getSystemService(SENSOR_SERVICE);
         _accelerometer = _sensorManager.getDefaultSensor(Sensor.TYPE_ACCELEROMETER);
         _magnetometer = _sensorManager.getDefaultSensor(Sensor.TYPE_MAGNETIC_FIELD);
+
+
+        //set up bluetooth functionality
+        DataView = (TextView)findViewById(R.id.connectionstatus);
+
+        mBluetoothAdapter = BluetoothAdapter.getDefaultAdapter();
+        Set<BluetoothDevice> pairedDevices = mBluetoothAdapter.getBondedDevices();
+
+        mhandler = new Handler(this);
+
+        mChatService = new BluetoothChatService(this,mhandler);
+
+        for(BluetoothDevice bldevice : pairedDevices){
+            if(bldevice.getName().contains(mConnectedDeviceName)){
+                ParcelUuid[] tmp = bldevice.getUuids();
+                String value = tmp[0].toString();
+                mChatService.connect(bldevice,true,value);
+            }
+        }
+        send_data = (Button) findViewById(R.id.senddata);
+        //to hide the button
+        send_data.setVisibility(View.VISIBLE);
+        send_data.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if(mChatService.getState() == mChatService.STATE_CONNECTED){
+//                Random rand = new Random();
+//                int vasdf = rand.nextInt(4)+1;
+
+                    mChatService.write(1);
+                }
+            }
+        });
 
 
         // *** ADD ***
@@ -111,7 +175,6 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
         createGraphicsOverlay();
         // *** ADD ***
         setupOAuthManager();
-
     }
 
     private void setupMap() {
@@ -150,6 +213,21 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
 
     }
 
+    //bluetooth - 1
+    @Override
+    public void onStart() {
+        super.onStart();
+        // If BT is not on, request that it be enabled.
+        // setupChat() will then be called during onActivityResult
+        if (!mBluetoothAdapter.isEnabled()) {
+            Intent enableIntent = new Intent(BluetoothAdapter.ACTION_REQUEST_ENABLE);
+//            startActivityForResult(enableIntent, REQUEST_ENABLE_BT);
+            // Otherwise, setup the chat session
+        } else if (mChatService == null) {
+//            setupChat();
+        }
+    }
+
     @Override
     protected void onPause() {
         if (mMapView != null) {
@@ -168,9 +246,13 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
         _lastMagnetometerSet = false;
         //_sensorManager.registerListener(this, _accelerometer, SensorManager.SENSOR_DELAY_NORMAL);
        // _sensorManager.registerListener(this, _magnetometer, SensorManager.SENSOR_DELAY_NORMAL);
-
-
-
+        if (mChatService != null) {
+            // Only if the state is STATE_NONE, do we know that we haven't started already
+            if (mChatService.getState() == BluetoothChatService.STATE_NONE) {
+                // Start the Bluetooth chat services
+                mChatService.start();
+            }
+        }
     }
 
     @Override
@@ -178,7 +260,34 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
         if (mMapView != null) {
             mMapView.dispose();
         }
+        if (mChatService != null) {
+            mChatService.stop();
+        }
         super.onDestroy();
+    }
+
+    //bluetooth - 4
+    @Override
+    public boolean handleMessage(Message message) {
+        String[] MessageStatus = new String[]{"STATE_NONE","STATE_LISTEN","STATE_CONNECTING","STATE_CONNECTED"};
+        switch (message.what) {
+            case Constants.MESSAGE_STATE_CHANGE:
+                if(MessageStatus[message.arg1] == "STATE_LISTEN")
+                {
+                    mBluetoothAdapter = BluetoothAdapter.getDefaultAdapter();
+                    Set<BluetoothDevice> pairedDevices = mBluetoothAdapter.getBondedDevices();
+                    for(BluetoothDevice bldevice : pairedDevices){
+                        if(bldevice.getName().contains(mConnectedDeviceName)){
+                            ParcelUuid[] tmp = bldevice.getUuids();
+                            String value = tmp[0].toString();
+                            mChatService.connect(bldevice,true,value);
+                        }
+                    }
+                }
+                DataView.setText(MessageStatus[message.arg1]);
+                break;
+        }
+        return true;
     }
 
 
@@ -187,6 +296,10 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
         mMapView.getGraphicsOverlays().add(mGraphicsOverlay);
     }
 
+    private void createGraphics() {
+        createGraphicsOverlay();
+
+    }
 
     private void setupOAuthManager() {
         String clientId = getResources().getString(R.string.client_id);
@@ -244,7 +357,6 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
     }
 
     //Add a method to find a route between two locations
-
     private void findRoute() {
         String routeServiceURI = getResources().getString(R.string.routing_url);
         final RouteTask solveRouteTask = new RouteTask(getApplicationContext(), routeServiceURI);
@@ -298,6 +410,8 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
 
 
     }
+
+
     private double angleFromCoordinate(double lat1, double long1, double lat2,
                                        double long2) {
 
@@ -314,7 +428,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
         brng = 360 - brng;
         return brng;
     }
-        //start tracking location
+    //start tracking location
     private void startLocation() {
         LocationListener locationListener = new LocationListener() {
             @SuppressLint("DefaultLocale")
@@ -330,7 +444,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
                // tv.setText(String.format("Distance to next stop %f m",location.distanceTo(_nextLoc)));
                 double opp = _nextLoc.getLongitude() - location.getLongitude();
                 double angle = _nextLoc.getBearing() - location.getBearing();
-                double bearing = location.bearingTo(_nextLoc);
+                double bearing = location.bearingTo(_nextLoc); //-180 to 180
                 bearing= (bearing+360 )%360;
 
 
@@ -381,33 +495,36 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
 
     }
 
+    //on User clicking 'Start Route' -> creates a new thread to invoke startRoute
     public void initRoute(android.view.View v) {
         nextDirec=true;
         showError("starting route");
         new Thread(() -> startRoute()).start();
-
-
     }
+
+    //returns the last known location
     @SuppressLint("MissingPermission")
     private Location parseLoc(String loc){
         String [] tmp = loc.split(" ");
         double lat, lng;
+        //north
         if(tmp[0].substring(tmp[0].length()-1).equals("N")){
              lat = Double.parseDouble(tmp[0].substring(0,tmp[0].length()-1));
-        }else{
+        }else{ //south
             lat = -1*Double.parseDouble(tmp[0].substring(0,tmp[0].length()-1));
         }
-        if(tmp[1].substring(tmp[1].length()-1).equals("E")){
+        if(tmp[1].substring(tmp[1].length()-1).equals("E")){ //east
             lng = Double.parseDouble(tmp[1].substring(0,tmp[1].length()-1));
-        }else{
+        }else{ //west
             lng = -1*Double.parseDouble(tmp[1].substring(0,tmp[1].length()-1));
 
         }
 
+        //store the last known location
         Location tmpL = _locationManager.getLastKnownLocation(LocationManager.GPS_PROVIDER);
+        //set its latitude and longitude values
         tmpL.setLatitude(lat);
         tmpL.setLongitude(lng);
-
         return tmpL;
 
     }
@@ -420,9 +537,10 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
             return;
         }
         String start =  CoordinateFormatter.toLatitudeLongitude(mStart, CoordinateFormatter.LatitudeLongitudeFormat.DECIMAL_DEGREES, 6);
-        _nextLoc = parseLoc(start);
+        _nextLoc = parseLoc(start); //returns next locations, lat and long coord
         runOnUiThread(() -> {
             //showError(de.getEventText());
+            //define a cross to show the next location
             SimpleMarkerSymbol symbol = new SimpleMarkerSymbol(SimpleMarkerSymbol.Style.CROSS, Color.BLACK, 12);
             Graphic graphic = new Graphic(mStart, symbol);
             GraphicsOverlay go = new GraphicsOverlay();
@@ -430,13 +548,13 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
             go.getGraphics().add(graphic);
         });
 
+        //when you have directions
         while (!_directions.isEmpty()) {
-
             if (nextDirec) {
-
                 nextDirec = false;
                 DirectionManeuver dm = _directions.remove(0);
                 for (DirectionEvent de : dm.getDirectionEvents()) {
+                    //X point - ltn, 2 meters
                     String ltn = CoordinateFormatter.toLatitudeLongitude(de.getGeometry(), CoordinateFormatter.LatitudeLongitudeFormat.DECIMAL_DEGREES, 6);
 
                     if(_nextLoc == parseLoc(ltn)){
@@ -462,9 +580,8 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
                 }
 
             }
-
-
         }
+
         String end =  CoordinateFormatter.toLatitudeLongitude(mEnd, CoordinateFormatter.LatitudeLongitudeFormat.DECIMAL_DEGREES, 6);
         _nextLoc = parseLoc(end);
         runOnUiThread(() -> {

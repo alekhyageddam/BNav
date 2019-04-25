@@ -1,0 +1,106 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".LocationLoggerActivity" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="10pt"
+        android:layout_marginTop="10pt"
+        android:gravity="center"
+        android:id="@+id/tv_longitude"
+        android:text="@string/longitude"/>
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/tv_longitude"
+        android:layout_marginLeft="10pt"
+        android:layout_marginTop="10pt"
+        android:gravity="center"
+        android:id="@+id/tv_latitude"
+        android:text="@string/latitude"/>
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/tv_latitude"
+        android:layout_marginLeft="10pt"
+        android:layout_marginTop="10pt"
+        android:gravity="center"
+        android:id="@+id/tv_distance"
+        android:text="@string/distance"/>
+
+    <TextView 
+        android:layout_width="200pt"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_toRightOf="@id/tv_longitude"
+        android:layout_marginLeft="10pt"
+        android:layout_marginTop="10pt"
+        android:gravity="center"
+        android:id="@+id/tv_longitude_value"
+        android:text="@string/zero"/>
+    
+    <TextView 
+        android:layout_width="200pt"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_toRightOf="@id/tv_latitude"
+        android:layout_below="@id/tv_longitude_value"
+        android:layout_marginLeft="10pt"
+        android:layout_marginTop="10pt"
+        android:gravity="center"
+        android:id="@+id/tv_latitude_value"
+        android:text="@string/zero"/>
+    
+    <TextView 
+        android:layout_width="200pt"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_toRightOf="@id/tv_distance"
+        android:layout_below="@id/tv_latitude_value"
+        android:layout_marginLeft="10pt"
+        android:layout_marginTop="10pt"
+        android:gravity="center"
+        android:id="@+id/tv_distance_value"
+        android:text="@string/zero"/>
+    
+    <Button 
+        android:layout_width="50pt" 
+        android:layout_height="30pt"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/tv_distance"
+        android:layout_marginLeft="5pt"
+        android:layout_marginTop="10pt"
+        android:gravity="center"
+        android:id="@+id/btn_mark_location"
+        android:text="@string/mark_location"
+        android:onClick="markMyLocation"
+        android:enabled="false"/>
+    
+    <Button 
+        android:layout_width="50pt" 
+        android:layout_height="30pt"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/tv_distance"
+        android:layout_toRightOf="@id/btn_mark_location"
+        android:layout_marginLeft="5pt"
+        android:layout_marginTop="10pt"
+        android:gravity="center"
+        android:id="@+id/btn_log_location"
+        android:text="@string/log_location"
+        android:onClick="logMyLocation"
+        android:enabled="false"/>
+   
+</RelativeLayout>

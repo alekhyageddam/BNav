@@ -1,0 +1,995 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d46d42d1-244e-4f92-b355-3ea29938f35f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BNav.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/HaptiGoClean.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/Reports/IUI 2013/.Haptigo_FinalMovie.mp4.icloud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/Reports/IUI 2013/Haptigo Paper.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/Reports/IUI 2013/Images/BlueSmirf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/Reports/IUI 2013/Images/Complete_System_Diagram.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/Reports/IUI 2013/Images/HaptigoDirectionCueRatings.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/Reports/IUI 2013/Images/HaptigoSystem_Back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/Reports/IUI 2013/Images/HaptigoSystem_Front.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/Reports/IUI 2013/Images/Haptigo_BackView.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/Reports/IUI 2013/Images/Haptigo_FrontView.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/Reports/IUI 2013/Images/NavigationTime.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/Reports/IUI 2013/Images/PilotStudyRoute.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/Reports/IUI 2013/Images/PocketNavigator.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/Reports/IUI 2013/Images/PocketNavigatorDirectionCueRatings.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/Reports/IUI 2013/Images/PocketNavigatorDirectionCueRatings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/Reports/IUI 2013/Images/TypingRate.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/Reports/IUI 2013/Images/UserStudyRoute.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/Reports/IUI 2013/acm-sigchi.bst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/Reports/IUI 2013/paper.aux" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/Reports/IUI 2013/paper.bbl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/Reports/IUI 2013/paper.bib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/Reports/IUI 2013/paper.blg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/Reports/IUI 2013/paper.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/Reports/IUI 2013/paper.synctex.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/Reports/IUI 2013/paper.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/Reports/IUI 2013/sigchi.cls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/Reports/TEI 2012/.[HaptiGo] TEI 2012 Paper Draft.pdf.icloud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/arduino/ArduinoTest/ArduinoTest.ino" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/arduino/HaptiGoNew/HaptiGoNew.ino" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/arduino/HapticVest/HapticVest.ino" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/arduino/Haptigo_ver1_Navigation/Haptigo_ver1_Navigation.ino" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/arduino/Navigation/Navigation.ino" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/arduino/ObstacleDetection/ObstacleDetection.ino" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/arduino/ObstacleDetection_ver2/ObstacleDetection_ver2.ino" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/arduino/ObstacleDetection_ver3/ObstacleDetection_ver3.ino" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/lib/AmarinoLibrary.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/libs/AmarinoLibrary.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/libs/android-support-v13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/libs/android-support-v4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/libs/jackson-all-1.9.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/lint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/proguard-project.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/raw/Waypoints" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/res/drawable-hdpi/action_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/res/drawable-hdpi/haptigologo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/res/drawable-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/res/drawable-hdpi/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/res/drawable-hdpi/location_directions.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/res/drawable-hdpi/navigation_down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/res/drawable-hdpi/navigation_forward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/res/drawable-hdpi/navigation_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/res/drawable-hdpi/navigation_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/res/drawable-hdpi/navigation_up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/res/drawable-ldpi/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/res/drawable-mdpi/action_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/res/drawable-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/res/drawable-mdpi/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/res/drawable-mdpi/location_directions.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/res/drawable-mdpi/navigation_down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/res/drawable-mdpi/navigation_forward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/res/drawable-mdpi/navigation_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/res/drawable-mdpi/navigation_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/res/drawable-mdpi/navigation_up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/res/drawable-xhdpi/action_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/res/drawable-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/res/drawable-xhdpi/location_directions.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/res/drawable-xhdpi/navigation_down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/res/drawable-xhdpi/navigation_forward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/res/drawable-xhdpi/navigation_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/res/drawable-xhdpi/navigation_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/res/drawable-xhdpi/navigation_up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/res/layout/configmain.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/res/layout/main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/res/layout/navimain.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/src/edu/tamu/haptigo/HapticNavigationBackend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/src/edu/tamu/haptigo/JsonDirectionsParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/src/edu/tamu/haptigo/NavigationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/src/edu/tamu/haptigo/PhoneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/src/edu/tamu/haptigo/SecondDeviceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/src/edu/tamu/haptigo/StudyConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/src/edu/tamu/haptigo/StudyNavigation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/src/edu/tamu/haptigo/StudyTutorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/src/edu/tamu/haptigo/SurfaceControlView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiGoClean/src/edu/tamu/haptigo/VestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiMotoGame/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiMotoGame/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiMotoGame/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiMotoGame/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiMotoGame/HaptiMotoGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiMotoGame/ic_launcher-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiMotoGame/libs/AmarinoLibrary.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiMotoGame/libs/android-support-v13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiMotoGame/libs/android-support-v4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiMotoGame/libs/google-play-services.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiMotoGame/libs/jackson-all-1.9.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiMotoGame/proguard-project.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiMotoGame/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiMotoGame/res/drawable-hdpi/housetobright.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiMotoGame/res/drawable-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiMotoGame/res/drawable-hdpi/marker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiMotoGame/res/drawable-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiMotoGame/res/drawable-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiMotoGame/res/drawable-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiMotoGame/res/layout/haptimoto_demo_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiMotoGame/res/menu/haptimoto_demo_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiMotoGame/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiMotoGame/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiMotoGame/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiMotoGame/src/com/blackphoenix/haptigo/NavGuide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiMotoGame/src/com/blackphoenix/haptigo/VestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiMotoGame/src/com/blackphoenix/haptimoto/game/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiMotoGame/src/com/blackphoenix/haptimoto/game/DemoPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/HaptiMotoGame/src/com/blackphoenix/haptimoto/game/Waypoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/LocationLogger/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/LocationLogger/.idea/LocationLogger.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/LocationLogger/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/LocationLogger/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/LocationLogger/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/LocationLogger/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/LocationLogger/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/LocationLogger/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/LocationLogger/LocationLogger.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/LocationLogger/LocationLogger1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/LocationLogger/gen/com/blackphoenix/locationlogger/BuildConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/LocationLogger/gen/com/blackphoenix/locationlogger/Manifest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/LocationLogger/gen/com/blackphoenix/locationlogger/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/LocationLogger/libs/android-support-v4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/LocationLogger/proguard-project.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/LocationLogger/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/LocationLogger/res/drawable-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/LocationLogger/res/drawable-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/LocationLogger/res/drawable-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/LocationLogger/res/layout/activity_location_logger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/LocationLogger/res/menu/location_logger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/LocationLogger/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/LocationLogger/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/LocationLogger/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/LocationLogger/src/com/blackphoenix/locationlogger/LocationLoggerActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCRiverside/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCRiverside/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCRiverside/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCRiverside/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCStopWatch/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCStopWatch/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCStopWatch/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCStopWatch/MCStopWatch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCStopWatch/MCStopWatch1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCStopWatch/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCStopWatch/res/drawable-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCStopWatch/res/drawable-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCStopWatch/res/drawable-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCStopWatch/res/layout/activity_stop_watch.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCStopWatch/res/menu/stop_watch.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCStopWatch/res/values-sw600dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCStopWatch/res/values-sw720dp-land/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCStopWatch/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCStopWatch/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCStopWatch/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCStopWatch/src/com/blackphoenix/stopwatch/DataEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCStopWatch/src/com/blackphoenix/stopwatch/StopWatchActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTest/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTest/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTest/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTest/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTest/Arduino/Navigation/Navigation.ino" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTest/MCTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTest/libs/AmarinoLibrary.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTest/libs/android-support-v13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTest/libs/android-support-v4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTest/libs/google-play-services.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTest/libs/jackson-all-1.9.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTest/proguard-project.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTest/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTest/res/drawable-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTest/res/drawable-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTest/res/drawable-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTest/res/layout/activity_haptigo_test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTest/res/menu/haptigo_test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTest/res/values-sw600dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTest/res/values-sw720dp-land/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTest/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTest/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTest/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTest/src/com/blackphoenix/haptigo/VestControlThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTest/src/com/blackphoenix/haptigo/VestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTest/src/com/blackphoenix/haptigo/mctest/HaptigoTestActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTutorial/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTutorial/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTutorial/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTutorial/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTutorial/MCTutorial1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTutorial/libs/AmarinoLibrary.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTutorial/libs/android-support-v4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTutorial/proguard-project.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTutorial/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTutorial/res/drawable-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTutorial/res/drawable-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTutorial/res/drawable-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTutorial/res/layout/activity_haptigo_tutorial.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTutorial/res/menu/haptigo__tutorial_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTutorial/res/values-sw600dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTutorial/res/values-sw720dp-land/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTutorial/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTutorial/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTutorial/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTutorial/src/com/blackphoenix/haptigo/NavGuide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTutorial/src/com/blackphoenix/haptigo/VestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTutorial/src/com/blackphoenix/mctutorial/Circuit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTutorial/src/com/blackphoenix/mctutorial/DataEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTutorial/src/com/blackphoenix/mctutorial/Haptigo_Tutorial_Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaptiGoVestCode/MCTutorial/src/com/blackphoenix/mctutorial/Waypoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/starterproject/BluetoothChatService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/starterproject/BluetoothService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/starterproject/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bluetooth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_24_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/.idea/libraries/Gradle__com_android_support_appcompat_v7_24_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/.idea/libraries/Gradle__com_android_support_support_annotations_24_2_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/.idea/libraries/Gradle__com_android_support_support_compat_24_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/.idea/libraries/Gradle__com_android_support_support_core_ui_24_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/.idea/libraries/Gradle__com_android_support_support_core_utils_24_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/.idea/libraries/Gradle__com_android_support_support_fragment_24_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/.idea/libraries/Gradle__com_android_support_support_media_compat_24_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/.idea/libraries/Gradle__com_android_support_support_v4_24_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/.idea/libraries/Gradle__com_android_support_support_vector_drawable_24_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_2_2_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_2_2_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/.idea/libraries/Gradle__com_android_support_test_exposed_instrumentation_api_publish_0_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/.idea/libraries/Gradle__com_android_support_test_rules_0_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/.idea/libraries/Gradle__com_android_support_test_runner_0_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/.idea/libraries/Gradle__javax_annotation_javax_annotation_api_1_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.gradle/4.6/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.gradle/4.6/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.gradle/4.6/taskHistory/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.gradle/4.6/taskHistory/taskHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.gradle/vcsWorkingDirs/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/libraries/Gradle__android_arch_core_common_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/libraries/Gradle__com_android_support_appcompat_v7_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/libraries/Gradle__com_android_support_asynclayoutinflater_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/libraries/Gradle__com_android_support_collections_28_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/libraries/Gradle__com_android_support_coordinatorlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/libraries/Gradle__com_android_support_cursoradapter_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/libraries/Gradle__com_android_support_customview_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/libraries/Gradle__com_android_support_documentfile_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/libraries/Gradle__com_android_support_drawerlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/libraries/Gradle__com_android_support_interpolator_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/libraries/Gradle__com_android_support_loader_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/libraries/Gradle__com_android_support_localbroadcastmanager_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/libraries/Gradle__com_android_support_print_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/libraries/Gradle__com_android_support_slidingpanelayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/libraries/Gradle__com_android_support_support_annotations_28_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/libraries/Gradle__com_android_support_support_compat_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/libraries/Gradle__com_android_support_support_core_ui_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/libraries/Gradle__com_android_support_support_core_utils_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/libraries/Gradle__com_android_support_support_fragment_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/libraries/Gradle__com_android_support_support_vector_drawable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/libraries/Gradle__com_android_support_swiperefreshlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/libraries/Gradle__com_android_support_versionedparcelable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/libraries/Gradle__com_esri_arcgisruntime_arcgis_android_100_4_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/app/app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/app/src/main/java/com/esri/arcgisruntime/basicandroidproject/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/app/src/main/res/values-w820dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-a-starter-app/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scooter-navigation" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_28_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_28_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_28_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_28_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_asynclayoutinflater_28_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_asynclayoutinflater_28_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_1_3_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_1_3_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_coordinatorlayout_28_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_coordinatorlayout_28_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_cursoradapter_28_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_cursoradapter_28_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_customview_28_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_customview_28_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_documentfile_28_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_documentfile_28_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_drawerlayout_28_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_drawerlayout_28_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_interpolator_28_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_interpolator_28_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_loader_28_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_loader_28_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_localbroadcastmanager_28_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_localbroadcastmanager_28_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_print_28_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_print_28_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_slidingpanelayout_28_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_slidingpanelayout_28_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_28_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_28_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_28_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_28_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_28_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_28_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_28_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_28_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_28_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_28_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_swiperefreshlayout_28_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_swiperefreshlayout_28_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_2_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_2_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_monitor_1_0_2_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_monitor_1_0_2_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_runner_1_0_2_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_runner_1_0_2_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_versionedparcelable_28_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_versionedparcelable_28_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_esri_arcgisruntime_arcgis_android_100_4_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_esri_arcgisruntime_arcgis_android_100_4_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StarterProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/create-a-starter-app/create-a-starter-app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/starterproject/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/starterproject/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/generated/source/r/debug/com/example/user/bluetooth_communication/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/generated/source/r/debug/com/example/user/bluetooth_communication/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-af.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-af.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-am.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-am.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-ar.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-ar.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-az-rAZ.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-az-rAZ.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-b+sr+Latn.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-b+sr+Latn.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-be-rBY.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-be-rBY.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-bg.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-bg.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-bn-rBD.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-bn-rBD.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-bs-rBA.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-bs-rBA.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-ca.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-ca.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-cs.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-cs.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-da.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-da.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-de.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-de.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-el.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-el.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-en-rAU.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-en-rAU.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-en-rGB.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-en-rGB.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-en-rIN.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-en-rIN.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-es-rUS.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-es-rUS.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-es.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-es.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-et-rEE.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-et-rEE.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-eu-rES.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-eu-rES.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-fa.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-fa.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-fi.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-fi.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-fr-rCA.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-fr-rCA.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-fr.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-fr.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-gl-rES.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-gl-rES.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-gu-rIN.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-gu-rIN.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-h720dp-v13.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-h720dp-v13.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-hdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-hdpi-v4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-hi.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-hi.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-hr.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-hr.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-hu.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-hu.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-hy-rAM.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-hy-rAM.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-in.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-in.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-is-rIS.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-is-rIS.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-it.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-it.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-iw.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-iw.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-ja.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-ja.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-ka-rGE.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-ka-rGE.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-kk-rKZ.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-kk-rKZ.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-km-rKH.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-km-rKH.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-kn-rIN.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-kn-rIN.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-ko.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-ko.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-ky-rKG.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-ky-rKG.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-land.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-land.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-large-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-large-v4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-ldltr-v21.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-ldltr-v21.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-lo-rLA.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-lo-rLA.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-lt.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-lt.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-lv.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-lv.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-mk-rMK.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-mk-rMK.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-ml-rIN.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-ml-rIN.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-mn-rMN.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-mn-rMN.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-mr-rIN.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-mr-rIN.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-ms-rMY.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-ms-rMY.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-my-rMM.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-my-rMM.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-nb.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-nb.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-ne-rNP.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-ne-rNP.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-night-v8.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-night-v8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-nl.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-nl.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-pa-rIN.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-pa-rIN.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-pl.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-pl.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-port.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-port.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-pt-rBR.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-pt-rBR.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-pt-rPT.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-pt-rPT.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-pt.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-pt.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-ro.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-ro.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-ru.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-ru.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-si-rLK.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-si-rLK.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-sk.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-sk.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-sl.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-sl.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-sq-rAL.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-sq-rAL.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-sr.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-sr.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-sv.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-sv.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-sw.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-sw.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-sw600dp-v13.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-sw600dp-v13.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-ta-rIN.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-ta-rIN.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-te-rIN.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-te-rIN.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-th.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-th.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-tl.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-tl.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-tr.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-tr.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-uk.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-uk.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-ur-rPK.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-ur-rPK.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-uz-rUZ.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-uz-rUZ.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-v11.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-v11.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-v12.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-v12.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-v13.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-v13.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-v14.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-v14.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-v17.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-v17.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-v18.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-v18.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-v21.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-v21.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-v22.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-v22.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-v23.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-v23.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-vi.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-vi.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-w820dp-v13.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-w820dp-v13.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-xlarge-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-xlarge-v4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-zh-rCN.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-zh-rCN.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-zh-rHK.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-zh-rHK.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-zh-rTW.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-zh-rTW.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-zu.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values-zu.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/multi/values.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/anim.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/anim.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/color-v11.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/color-v11.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/color-v23.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/color-v23.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/color.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/color.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-hdpi-v17.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-hdpi-v17.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-mdpi-v17.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-mdpi-v17.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-xhdpi-v17.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-xhdpi-v17.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-xxhdpi-v17.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-xxhdpi-v17.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-xxxhdpi-v17.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-xxxhdpi-v17.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/drawable-v21.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/drawable-v21.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/drawable-v23.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/drawable-v23.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/drawable-xxxhdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/drawable-xxxhdpi-v4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/drawable.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/drawable.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/layout.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/layout.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/mipmap-hdpi.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/mipmap-hdpi.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/mipmap-mdpi.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/mipmap-mdpi.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/mipmap-xhdpi.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/mipmap-xhdpi.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/mipmap-xxhdpi.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/mipmap-xxhdpi.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/mipmap-xxxhdpi.json" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/blame/res/debug/single/mipmap-xxxhdpi.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/BluetoothConnectionService$AcceptThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/BluetoothConnectionService$AcceptThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/BluetoothConnectionService$ConnectThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/BluetoothConnectionService$ConnectThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/BluetoothConnectionService$ConnectedThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/BluetoothConnectionService$ConnectedThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/BluetoothConnectionService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/BluetoothConnectionService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/DeviceListAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/DeviceListAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/MainActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/MainActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/MainActivity$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/MainActivity$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/MainActivity$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/MainActivity$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/MainActivity$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/MainActivity$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/MainActivity$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/MainActivity$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/MainActivity$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/MainActivity$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/MainActivity$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/MainActivity$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/MainActivity$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/MainActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/MainActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/R$mipmap.class" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/R$mipmap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/classes/debug/com/example/user/bluetooth_communication/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/incremental/packageDebug/zip-cache/VZFEvRZoorRh4BWG4lMmStjFEvo=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_8ce5f9799b15661756a134a5190123b036f98199.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_9f94cc25dd4c4ca620c92ac108098550c25c3e52.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_fa34c959d1efeb01938a733d39bae91d51432004.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_3bde0f8cf68879fb75d2d90a2caba9ac4ccc30a1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_a428c2620b9f689505c5340b1d5b48468e2d2be4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_ec8659048ca5bbb7ebeb6cf07aec550956f8d59c.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_d5ec9ef5865979f5d633cdbeb242ac11e7e07b84.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_c7b3666adc1a964f9645f3da5772207dd46741b6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_7d8355ea3f78e250bcdb72a71482ec0239036f37.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_f57fe2c8c286e1123b442d34e4da5b2c47840b98.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/pre-dexed/debug/instant-run_05eaa1b02bbd11e8f09902a93a67fa40be0d7cc3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_192696fe5b40b2d3bf6c76eb3c9e4cc9a92be2b6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_288c38c27254b947771fc21857497dcfe23aad4b.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_78ad6b12490be7860fa2b24810a0e3054fcb12d5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ad8a1262801ff5a65f7e10a1f980f6496c7fc4c9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f9f457aed1a91c15ed976b447b817c92862f278c.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/pre-dexed/debug/main_466dd5a19a333b8a0cf41796bdd8bd098d2c3733.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_54dc45dfabb608f3363bca49d90843bc42ff330f.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/res/merged/debug/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/res/merged/debug/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/res/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/res/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/symbols/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/symbols/debug/R.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/outputs/apk/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/outputs/apk/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/src/main/java/com/example/user/bluetooth_communication/BluetoothConnectionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/src/main/java/com/example/user/bluetooth_communication/BluetoothConnectionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/src/main/java/com/example/user/bluetooth_communication/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/app/src/main/java/com/example/user/bluetooth_communication/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/build/intermediates/dex-cache/cache.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/build/intermediates/dex-cache/cache.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/bluetooth/Bluetooth-Communication/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scooter-navigation/app/src/main/java/com/scooter/scooter_nav/BluetoothService.java" beforeDir="false" afterPath="$PROJECT_DIR$/scooter-navigation/app/src/main/java/com/scooter/scooter_nav/BluetoothService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scooter-navigation/app/src/main/java/com/scooter/scooter_nav/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/scooter-navigation/app/src/main/java/com/scooter/scooter_nav/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scooter-navigation/app/src/main/java/com/scooter/scooter_nav/SettingsTab.java" beforeDir="false" afterPath="$PROJECT_DIR$/scooter-navigation/app/src/main/java/com/scooter/scooter_nav/SettingsTab.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/app/build/generated/not_namespaced_r_class_sources/" />
+    <ignored path="$PROJECT_DIR$/app/build/generated/source/r/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/annotation_processor_list/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/apk_list/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/blame/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/build-info/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/builds/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/bundle_manifest/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/check_manifest_result/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/compatible_screen_manifest/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/incremental/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/incremental-runtime-classes/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/instant-run-apk/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/instant_app_manifest/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/instant_run_app_info_output_file/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/instant_run_main_apk_resources/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/instant_run_merged_manifests/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/instant_run_split_apk_resources/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/javac/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/jniLibs/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/lint_jar/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/manifest-checker/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/merged_assets/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/merged_manifests/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/metadata_feature_manifest/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/prebuild/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/processed_res/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/reload-dex/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/res/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/resources/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/rs/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/shader_assets/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/shaders/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/signing_config/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/split-apk/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/symbols/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/transforms/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/validate_signing_config/" />
+    <ignored path="$PROJECT_DIR$/app/build/outputs/" />
+    <ignored path="$PROJECT_DIR$/app/build/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1617205688">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="4" />
+          <entry key="xml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="4" />
+          <entry key="XML" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="483" />
+          <entry key="txt" value="31" />
+          <entry key="xml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="483" />
+          <entry key="PLAIN_TEXT" value="31" />
+          <entry key="XML" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/starterproject/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="887">
+              <caret line="64" column="27" lean-forward="true" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
+              <folding>
+                <element signature="e#4872#7072#0" />
+                <element signature="e#7078#8723#0" />
+                <element signature="e#9278#9421#0" />
+                <element signature="e#9427#10169#0" />
+                <element signature="e#10175#10403#0" />
+                <element signature="e#11484#11640#0" />
+                <element signature="e#11723#12456#0" />
+                <element signature="e#12462#12629#0" />
+                <element signature="e#12635#13173#0" />
+                <element signature="e#13179#13429#0" />
+                <element signature="e#13435#13631#0" />
+                <element signature="e#13637#14152#0" />
+                <element signature="e#14158#17447#0" />
+                <element signature="e#17454#17963#0" />
+                <element signature="e#21118#21359#0" />
+                <element signature="e#21365#22344#0" />
+                <element signature="e#22350#25455#0" />
+                <element signature="e#25460#25607#0" />
+                <element signature="e#25613#26576#0" />
+                <element signature="e#26582#26663#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="48" column="77" selection-start-line="48" selection-start-column="77" selection-end-line="48" selection-end-column="77" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-manifest" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/starterproject/Constants.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/starterproject/BluetoothService.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/starterproject/BluetoothChatService.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/starterproject/BluetoothChatService.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/starterproject/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="86" />
+    <option name="y" value="23" />
+    <option name="width" value="1060" />
+    <option name="height" value="689" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BNav" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="BNav" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="BNav" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="starterproject" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="activ&#9;FILE&#9;file:///Users/alekhyageddam/Desktop/BNav/app/src/main/res/layout/activity_main.xml&#10;heading&#9;PSI&#9;JAVA://com.example.starterproject.MainActivity#heading" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/example/starterproject" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d46d42d1-244e-4f92-b355-3ea29938f35f" name="Default Changelist" comment="" />
+      <created>1556033155889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556033155889</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2786753" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Logcat" order="1" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Android Profiler" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.49919224" visible="true" weight="0.32876712" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="5" sideWeight="0.50080776" side_tool="true" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.269863" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Preview" order="5" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding bluetooth functionalitty" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding bluetooth functionalitty" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/app_settings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="77" selection-start-line="48" selection-start-column="77" selection-end-line="48" selection-end-column="77" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/starterproject/Constants.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/starterproject/BluetoothService.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/starterproject/BluetoothChatService.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/starterproject/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="887">
+          <caret line="64" column="27" lean-forward="true" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
+          <folding>
+            <element signature="e#4872#7072#0" />
+            <element signature="e#7078#8723#0" />
+            <element signature="e#9278#9421#0" />
+            <element signature="e#9427#10169#0" />
+            <element signature="e#10175#10403#0" />
+            <element signature="e#11484#11640#0" />
+            <element signature="e#11723#12456#0" />
+            <element signature="e#12462#12629#0" />
+            <element signature="e#12635#13173#0" />
+            <element signature="e#13179#13429#0" />
+            <element signature="e#13435#13631#0" />
+            <element signature="e#13637#14152#0" />
+            <element signature="e#14158#17447#0" />
+            <element signature="e#17454#17963#0" />
+            <element signature="e#21118#21359#0" />
+            <element signature="e#21365#22344#0" />
+            <element signature="e#22350#25455#0" />
+            <element signature="e#25460#25607#0" />
+            <element signature="e#25613#26576#0" />
+            <element signature="e#26582#26663#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

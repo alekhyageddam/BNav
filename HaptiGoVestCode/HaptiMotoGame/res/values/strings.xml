@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">HaptiMoto Demo</string>
+
+    <!-- UI Strings -->
+    
+    <!-- dialog labels -->
+    <string name="dialog_username"> Username </string>
+    <string name="dialog_ok"> OK </string>
+    <string name="dialog_cancel">Cancel</string>
+    
+    <!-- menu items -->
+    <string name="menu_exit">exit</string>
+    <string name="menu_connect_vest">connect vest</string>
+    
+    <!-- Button labels -->
+    <string name="button_play">Play</string>
+    <string name="button_stop">Stop</string>
+    
+    <!-- Button Colors -->
+    <color name="red">#BA3030</color>
+    <color name="green">#4CB052</color>
+</resources>

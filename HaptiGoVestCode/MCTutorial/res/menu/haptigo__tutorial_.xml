@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_connect_vest"
+        android:orderInCategory="100"
+        android:title="@string/menu_connect_vest"/>
+    
+    <item
+        android:id="@+id/menu_change_user"
+        android:orderInCategory="100"
+        android:title="@string/menu_change_user"/>
+    <item
+        android:id="@+id/menu_exit"
+        android:orderInCategory="100"
+        android:title="@string/menu_exit"/>
+
+</menu>

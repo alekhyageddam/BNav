@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MC Tutorial</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+     <!-- Label Strings -->
+    <string name="label_routine">Routine :</string>
+    <string name="label_username">Username :</string>
+    <string name="label_direction">Direction :</string>
+ 
+    <!-- default Status text -->
+ 	<string name="default_status">Enter username and \n select routine details.</string>
+ 
+  	<!-- Default value for user name -->
+  	<string name="default_username">test</string>
+  	
+    <!-- Menu strings -->
+    <string name="menu_exit">exit</string>
+    <string name="menu_change_user">change user</string>
+    <string name="menu_connect_vest">connect vest</string>
+    
+    <!-- Button strings -->
+    <string name="button_start">Start</string>  
+    <string name="button_stop">Stop</string>  
+    <string name="button_new_routine">New</string>
+    <string name="button_log">log</string>
+    
+    <!-- String array for spinners - routine, direction -->
+    <string-array name="routines">
+        <item>LD</item>
+        <item>RT</item>        
+        <item>QL</item>
+        <item>QR</item>
+        <item>3S</item>
+        <item>M1</item>
+        <item>M2</item>
+    </string-array>
+    
+    <string-array name="directions">
+        <item>Straight</item>
+        <item>Back</item>
+        <item>Left</item>
+        <item>Right</item>        
+        <item>Dest</item>
+    </string-array>
+</resources>

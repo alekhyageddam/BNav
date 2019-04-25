@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/configRoot"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_marginTop="3dp"
+    android:orientation="vertical"
+    tools:ignore="HardcodedText" >
+
+    <TextView
+        android:id="@+id/NavConfigBanner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+        android:text="Configuration"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="35sp"
+        android:textStyle="bold" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dip"
+        android:layout_marginBottom="3dp"
+        android:layout_marginTop="2dp"
+        android:background="@android:color/darker_gray" />
+
+    <RadioGroup
+        android:id="@+id/nav_select"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal" >
+
+        <TextView
+            android:id="@+id/NavPrompt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Navigation System:"
+            android:textSize="16sp"
+            android:textStyle="bold" >
+        </TextView>
+
+        <RadioButton
+            android:id="@+id/Haptigo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="HaptiGo" />
+
+        <RadioButton
+            android:id="@+id/PocketNavigator"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pocket Navigator" />
+    </RadioGroup>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dip"
+        android:layout_marginBottom="3dp"
+        android:background="@android:color/darker_gray" />
+
+    <RadioGroup
+        android:id="@+id/path_select"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginRight="10dp"
+        android:orientation="vertical"
+        android:visibility="visible" >
+
+        <TextView
+            android:id="@+id/DestPrompt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" Destination:"
+            android:textSize="16sp"
+            android:textStyle="bold" >
+        </TextView>
+
+        <RadioButton
+            android:id="@+id/DestA"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="Destination A" />
+
+        <RadioButton
+            android:id="@+id/DestB"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Destination B" />
+
+        <RadioButton
+            android:id="@+id/DestC"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Destination C" />
+
+     
+    </RadioGroup>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal" >
+
+        <TextView
+            android:id="@+id/customPrompt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="3dp"
+            android:layout_marginTop="10dp"
+            android:text="Input Destination:"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/customDestination"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:drawableLeft="@drawable/action_search"
+            android:ems="10"
+            android:hint="Address"
+            android:inputType="textPostalAddress"
+            android:minEms="8" >
+
+            <requestFocus />
+        </EditText>
+
+    </LinearLayout>
+    
+     <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dip"
+        android:layout_marginBottom="3dp"
+        android:layout_marginTop="2dp"
+        android:background="@android:color/darker_gray" />
+
+     <Button
+         android:id="@+id/btnConfigure"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_gravity="right"
+         android:layout_marginRight="10dp"
+         android:layout_marginTop="5dp"
+         android:drawableLeft="@drawable/navigation_forward"
+         android:text="Next Screen" />
+
+    <TextView
+        android:id="@+id/copyright"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center_horizontal"
+        android:layout_marginTop="18dp"
+        android:text="@string/copyright" >
+
+    </TextView>
+
+</LinearLayout>

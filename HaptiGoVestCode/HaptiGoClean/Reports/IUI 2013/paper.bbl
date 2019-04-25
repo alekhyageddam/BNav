@@ -1,0 +1,243 @@
+\begin{thebibliography}{10}
+
+\bibitem{Android}
+Android website.
+\newblock \url{http://www.android.com/}, 2012.
+
+\bibitem{Arduino}
+Arduino website.
+\newblock \url{http://www.arduino.cc/}, 2012.
+
+\bibitem{BlueSmirf}
+Bluesmirf product page.
+\newblock \url{http://www.rovingnetworks.com/products/RN_42}, 2012.
+
+\bibitem{VibeBoard}
+Lilypad product page.
+\newblock \url{https://www.sparkfun.com/products/11008}, 2012.
+
+\bibitem{PingSensor}
+Pingsensor product page.
+\newblock \url{http://www.parallax.com/tabid/768/ProductID/92/Default.aspx},
+  2012.
+
+\bibitem{2008_Buechley_CHI}
+Buechley, L., Eisenberg, M., Catchen, J., and Crockett, A.
+\newblock The lilypad arduino: using computational textiles to investigate
+  engagement, aesthetics, and diversity in computer science education.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI '08, ACM (New York, NY, USA, 2008), 423--432.
+
+\bibitem{2012_Cummings_CHINZ}
+Cummings, D., Lucchese, G., Prasad, M., Aikens, C., Ho, J., and Hammond, T.
+\newblock Haptic and ar interface for paratrooper coordination.
+\newblock In {\em Proceedings of the 13th International Conference of the NZ
+  Chapter of the ACM's Special Interest Group on Human-Computer Interaction},
+  CHINZ '12, ACM (New York, NY, USA, 2012), 52--55.
+
+\bibitem{2010_Elliott_IEEEHaptics}
+Elliott, L., van Erp, J., Redden, E., and Duistermaat, M.
+\newblock Field-based validation of a tactile navigation device.
+\newblock {\em Haptics, IEEE Transactions on 3}, 2 (april-june 2010), 78--87.
+
+\bibitem{2011_Elliott_HI}
+Elliott, L.~R., Schmeisser, E.~T., and Redden, E.~S.
+\newblock Development of tactile and haptic systems for u.s. infantry
+  navigation and communication.
+\newblock In {\em Proceedings of the 2011 international conference on Human
+  interface and the management of information - Volume Part I}, HI'11,
+  Springer-Verlag (Berlin, Heidelberg, 2011), 399--407.
+
+\bibitem{2004_VanVeen_EuroHaptics}
+Erp, J. B. F.~V., Veen, H. A. H. C.~V., Jansen, C., and Dobbins, T.
+\newblock Waypoint navigation with a vibrotactile waist belt.
+\newblock {\em ACM Trans. Appl. Percept. 2}, 2 (Apr. 2005), 106--117.
+
+\bibitem{2005_VanErp_TAP}
+Erp, J. B. F.~V., Veen, H. A. H. C.~V., Jansen, C., and Dobbins, T.
+\newblock Waypoint navigation with a vibrotactile waist belt.
+\newblock {\em ACM Trans. Appl. Percept. 2}, 2 (Apr. 2005), 106--117.
+
+\bibitem{2011_Frohlich_CommunACM}
+Fr\"{o}hlich, P., Oulasvirta, A., Baldauf, M., and Nurminen, A.
+\newblock On the move, wirelessly connected to the world.
+\newblock {\em Commun. ACM 54}, 1 (Jan. 2011), 132--138.
+
+\bibitem{2006_Johnson_EMBS}
+Johnson, L., and Higgins, C.
+\newblock A navigation aid for the blind using tactile-visual sensory
+  substitution.
+\newblock In {\em Proceedings of the 28th Annual International Conference of
+  the IEEE Engineering in Medicine and Biology Society}, EMBS '06, IEEE (2006),
+  6289--6292.
+
+\bibitem{2004_Jones_HAPTICS}
+Jones, L.~A., Nakamura, M., and Lockyer, B.
+\newblock Development of a tactile vest.
+\newblock In {\em Proceedings of the 12th international conference on Haptic
+  interfaces for virtual environment and teleoperator systems}, HAPTICS'04,
+  IEEE Computer Society (Washington, DC, USA, 2004), 82--89.
+
+\bibitem{2007_Jupp_UAHCI}
+Jupp, J., Langdon, P., and Godsill, S.
+\newblock Mobile computing in maintenance activities: A 'situational induced
+  impairments and disabilities' perspective.
+\newblock In {\em Universal Acess in Human Computer Interaction. Coping with
+  Diversity}, C.~Stephanidis, Ed., vol.~4554 of {\em Lecture Notes in Computer
+  Science}. Springer Berlin / Heidelberg, 2007, 696--705.
+
+\bibitem{2008_Lin_OZCHI}
+Lin, M.-W., Cheng, Y.-M., Yu, W., and Sandnes, F.~E.
+\newblock Investigation into the feasibility of using tactons to provide
+  navigation cues in pedestrian situations.
+\newblock In {\em Proceedings of the 20th Australasian Conference on
+  Computer-Human Interaction: Designing for Habitus and Habitat}, OZCHI '08,
+  ACM (New York, NY, USA, 2008), 299--302.
+
+\bibitem{2010_Madden_PewResearch}
+Madden, M., and Rainie, L.
+\newblock Adults and cell phone distractions.
+\newblock Tech. rep., Pew Research Center, June 2010.
+
+\bibitem{2010_Magnusson_NordiCHI}
+Magnusson, C., Molina, M., Rassmus-Gr\"{o}hn, K., and Szymczak, D.
+\newblock Pointing for non-visual orientation and navigation.
+\newblock In {\em Proceedings of the 6th Nordic Conference on Human-Computer
+  Interaction: Extending Boundaries}, NordiCHI '10, ACM (New York, NY, USA,
+  2010), 735--738.
+
+\bibitem{2010_Magnusson_HAID}
+Magnusson, C., Rassmus-Gr\"{o}hn, K., and Szymczak, D.
+\newblock The influence of angle size in navigation applications using pointing
+  gestures.
+\newblock In {\em Proceedings of the 5th international conference on Haptic and
+  audio interaction design}, HAID'10, Springer-Verlag (Berlin, Heidelberg,
+  2010), 107--116.
+
+\bibitem{2010_Magnusson_MobileHCI}
+Magnusson, C., Rassmus-Gr\"{o}hn, K., and Szymczak, D.
+\newblock Scanning angles for directional pointing.
+\newblock In {\em Proceedings of the 12th international conference on Human
+  computer interaction with mobile devices and services}, MobileHCI '10, ACM
+  (New York, NY, USA, 2010), 399--400.
+
+\bibitem{2005_Nagel_JNeuralEng}
+Nagel, S.~K., Carl, C., Kringe, T., M{\"{a}}rtin, R., and K{\"{o}}nig, P.
+\newblock {Beyond sensory substitution---learning the sixth sense}.
+\newblock {\em J. Neural Eng. 2}, 4 (Nov. 2005), R13--R26.
+
+\bibitem{2010_Pielot_Pervasive}
+Pielot, M., and Boll, S.
+\newblock Tactile wayfinder: Comparison of tactile waypoint navigation with
+  commercial pedestrian navigation systems.
+\newblock In {\em Pervasive Computing}, P.~Flor\'{e}en, A.~Krüger, and
+  M.~Spasojevic, Eds., vol.~6030 of {\em Lecture Notes in Computer Science}.
+  Springer Berlin / Heidelberg, 2010, 76--93.
+
+\bibitem{2009_Pielot_MobileHCI}
+Pielot, M., Henze, N., and Boll, S.
+\newblock Supporting map-based wayfinding with tactile cues.
+\newblock In {\em Proceedings of the 11th International Conference on
+  Human-Computer Interaction with Mobile Devices and Services}, MobileHCI '09,
+  ACM (New York, NY, USA, 2009), 23:1--23:10.
+
+\bibitem{2010_Pielot_MobileHCI}
+Pielot, M., Poppinga, B., and Boll, S.
+\newblock Pocketnavigator: vibro-tactile waypoint navigation for everyday
+  mobile devices.
+\newblock In {\em Proceedings of the 12th international conference on Human
+  computer interaction with mobile devices and services}, MobileHCI '10, ACM
+  (New York, NY, USA, 2010), 423--426.
+
+\bibitem{2011_Pielot_ICMI}
+Pielot, M., Poppinga, B., Heuten, W., and Boll, S.
+\newblock 6th senses for everyone!: the value of multimodal feedback in
+  handheld navigation aids.
+\newblock In {\em Proceedings of the 13th international conference on
+  multimodal interfaces}, ICMI '11, ACM (New York, NY, USA, 2011), 65--72.
+
+\bibitem{2011_Pielot_INTERACT}
+Pielot, M., Poppinga, B., Heuten, W., and Boll, S.
+\newblock A tactile compass for eyes-free pedestrian navigation.
+\newblock In {\em Proceedings of the 13th IFIP TC 13 international conference
+  on Human-computer interaction - Volume Part II}, INTERACT'11, Springer-Verlag
+  (Berlin, Heidelberg, 2011), 640--656.
+
+\bibitem{2012_Pielot_CHI}
+Pielot, M., Poppinga, B., Heuten, W., and Boll, S.
+\newblock Pocketnavigator: studying tactile navigation systems in-situ.
+\newblock In {\em Proceedings of the SIGCHI conference on Human factors in
+  computing systems}, CHI '12, ACM (New York, NY, USA, 2012), 3131--3140.
+
+\bibitem{2012_Raisamo_EuroHaptics}
+Raisamo, R., Nukarinen, T., Pystynen, J., M\"{a}kinen, E., and Kildal, J.
+\newblock Orientation inquiry: a new haptic interaction technique for
+  non-visual pedestrian navigation.
+\newblock In {\em Proceedings of the 2012 international conference on Haptics:
+  perception, devices, mobility, and communication - Volume Part II},
+  EuroHaptics'12, Springer-Verlag (Berlin, Heidelberg, 2012), 139--144.
+
+\bibitem{2010_Robinson_MobileHCI}
+Robinson, S., Jones, M., Eslambolchilar, P., Murray-Smith, R., and Lindborg, M.
+\newblock "i did it my way": moving away from the tyranny of turn-by-turn
+  pedestrian navigation.
+\newblock In {\em Proceedings of the 12th international conference on Human
+  computer interaction with mobile devices and services}, MobileHCI '10, ACM
+  (New York, NY, USA, 2010), 341--344.
+
+\bibitem{2000_Ross_ASSETS}
+Ross, D.~A., and Blasch, B.~B.
+\newblock Wearable interfaces for orientation and wayfinding.
+\newblock In {\em Proceedings of the fourth international ACM conference on
+  Assistive technologies}, Assets '00, ACM (New York, NY, USA, 2000), 193--200.
+
+\bibitem{2011_Rumelin_UIST}
+R\"{u}melin, S., Rukzio, E., and Hardy, R.
+\newblock Naviradar: a novel tactile information display for pedestrian
+  navigation.
+\newblock In {\em Proceedings of the 24th annual ACM symposium on User
+  interface software and technology}, UIST '11, ACM (New York, NY, USA, 2011),
+  293--302.
+
+\bibitem{2010_Srikulwong_HAID}
+Srikulwong, M., and O'Neill, E.
+\newblock A comparison of two wearable tactile interfaces with a complementary
+  display in two orientations.
+\newblock In {\em Proceedings of the 5th international conference on Haptic and
+  audio interaction design}, HAID'10, Springer-Verlag (Berlin, Heidelberg,
+  2010), 139--148.
+
+\bibitem{2012_Szymczak_MobileHCI}
+Szymczak, D., Rassmus-Gr\"{o}hn, K., Magnusson, C., and Hedvall, P.-O.
+\newblock A real-world study of an audio-tactile tourist guide.
+\newblock In {\em Proceedings of the 14th international conference on
+  Human-computer interaction with mobile devices and services}, MobileHCI '12,
+  ACM (New York, NY, USA, 2012), 335--344.
+
+\bibitem{2004_Tsukada_Ubicomp}
+Tsukada, K., and Yasumrua, M.
+\newblock Activebelt: belt-type wearable tactile display for directional
+  navigation.
+\newblock In {\em Proceedings the Sixth International Conference on Ubiquitous
+  Computing 2004}, UbiComp '04 (2004), 384--399.
+
+\bibitem{2007_VanErp_Dissertation}
+van Erp, J.
+\newblock {\em Tactile displays for navigation and orientation: perception and
+  behavior}.
+\newblock PhD thesis, Utrecht University, 2007.
+
+\bibitem{2002_Wickens_ErgoScience}
+Wickens, C.
+\newblock Multiple resources and performance prediction.
+\newblock {\em Theoretical Issues in Ergonomics Science 3}, 2 (2002), 159--177.
+
+\bibitem{2010_Williamson_CHI}
+Williamson, J., Robinson, S., Stewart, C., Murray-Smith, R., Jones, M., and
+  Brewster, S.
+\newblock Social gravity: a virtual elastic tether for casual,
+  privacy-preserving pedestrian rendezvous.
+\newblock In {\em Proceedings of the SIGCHI conference on Human factors in
+  computing systems}, CHI '10, ACM (New York, NY, USA, 2010), 1485--1494.
+
+\end{thebibliography}

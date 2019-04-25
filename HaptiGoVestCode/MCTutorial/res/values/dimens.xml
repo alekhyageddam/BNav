@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">10dp</dimen>
+    <dimen name="activity_vertical_margin">10dp</dimen>
+
+    <!-- default button height and width -->
+    <dimen name="button_height">24pt</dimen>
+    <dimen name="button_width">40pt</dimen>
+    
+
+    <!-- default padding space -->
+    <dimen name="default_padding">12pt</dimen>
+    
+    <!-- default margin -->
+    <dimen name="default_margin">8pt</dimen>
+    
+    <!-- Spinner Height and Width -->
+	<dimen name="spinner_height">24pt</dimen>
+	<dimen name="spinner_width">10pt</dimen>
+	
+	<!-- UserName textbox width -->
+	<dimen name="default_width">80pt</dimen>
+	<dimen name="default_height">20pt</dimen>
+</resources>

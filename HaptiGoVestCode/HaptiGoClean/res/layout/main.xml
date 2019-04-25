@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/NavConfigBanner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+        android:text=" Tutorial"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dip"
+        android:layout_marginBottom="3dp"
+        android:layout_marginTop="2dp"
+        android:background="@android:color/darker_gray" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="HaptiGo Navigator:"
+        android:textStyle="bold" />
+
+    <edu.tamu.haptigo.SurfaceControlView
+        android:id="@+id/surfaceControl"
+        android:layout_width="fill_parent"
+        android:layout_height="120dp" >
+    </edu.tamu.haptigo.SurfaceControlView>
+
+    <TextView
+        android:id="@+id/txtIntensities"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dip"
+        android:layout_marginBottom="3dp"
+        android:layout_marginTop="2dp"
+        android:background="@android:color/darker_gray" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/lblPocketNav"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pocket Navigator:"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/BtnForward"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/lblPocketNav"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="20dp"
+            android:drawableLeft="@drawable/navigation_up"
+            android:text="Ahead" />
+
+        <Button
+            android:id="@+id/BtnCenter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/BtnForward"
+            android:layout_centerHorizontal="true"
+            android:text="center"
+            android:visibility="invisible" />
+
+        <Button
+            android:id="@+id/BtnLeft"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/BtnForward"
+            android:layout_centerHorizontal="true"
+            android:layout_marginRight="20dp"
+            android:layout_toLeftOf="@id/BtnCenter"
+            android:drawableLeft="@drawable/navigation_right"
+            android:text="Left" />
+
+        <Button
+            android:id="@+id/BtnRight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/BtnForward"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="20dp"
+            android:layout_toRightOf="@id/BtnCenter"
+            android:drawableLeft="@drawable/navigation_left"
+            android:text="Right" />
+
+        <Button
+            android:id="@+id/BtnBack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/BtnRight"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:drawableLeft="@drawable/navigation_down"
+            android:text="Back" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dip"
+        android:layout_marginBottom="3dp"
+        android:layout_marginTop="2dp"
+        android:background="@android:color/darker_gray" />
+
+    <Button
+        android:id="@+id/BtnTutorial"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="15dp"
+        android:drawableLeft="@drawable/navigation_forward"
+        android:text="Next Screen" />
+
+</LinearLayout>

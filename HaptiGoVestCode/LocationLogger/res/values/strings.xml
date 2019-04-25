@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Location Logger</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="longitude">Longitude ::</string>
+    <string name="latitude">Latitude ::</string>
+    <string name="distance">Distance ::</string>
+    <string name="zero">0</string>
+    
+    <!-- Button labels -->
+    <string name="mark_location">Mark Location</string>
+    <string name="log_location">Log Location</string>
+    
+    <!-- menu items -->
+    <string name="exit">Exit</string>
+</resources>
